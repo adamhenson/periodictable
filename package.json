@@ -1,0 +1,34 @@
+{
+  "name": "periodictable",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material/react-button": "^0.12.1",
+    "@material/react-linear-progress": "^0.12.0",
+    "@material/react-material-icon": "^0.12.0",
+    "@material/react-radio": "^0.12.0",
+    "@material/react-text-field": "^0.12.1",
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-scripts": "2.1.8",
+    "react-transition-group": "^4.0.1",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "PORT=8080 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
