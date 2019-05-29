@@ -245,4 +245,159 @@ export default [
       relativeAtomicMass: 270.13,
     },
   ],
+
+  // group 8
+  [
+    {/* empty space */},
+    {/* empty space */},
+    {/* empty space */},
+    {
+      name: 'Iron',
+      symbol: 'Fe',
+      atomicNumber: 26,
+      relativeAtomicMass: 55.845,
+    },
+    {
+      name: 'Ruthenium',
+      symbol: 'Ru',
+      atomicNumber: 44,
+      relativeAtomicMass: 101.07,
+    },
+    {
+      name: 'Osmium',
+      symbol: 'Os',
+      atomicNumber: 76,
+      relativeAtomicMass: 190.23,
+    },
+    {
+      name: 'Hassium',
+      symbol: 'Hs',
+      atomicNumber: 108,
+      relativeAtomicMass: 269.13,
+    },
+  ],
+
+  // group 9
+  [
+    {/* empty space */},
+    {/* empty space */},
+    {/* empty space */},
+    {
+      name: 'Cobalt',
+      symbol: 'Co',
+      atomicNumber: 27,
+      relativeAtomicMass: 58.933,
+    },
+    {
+      name: 'Rhodium',
+      symbol: 'Rh',
+      atomicNumber: 45,
+      relativeAtomicMass: 102.91,
+    },
+    {
+      name: 'Iridium',
+      symbol: 'Ir',
+      atomicNumber: 77,
+      relativeAtomicMass: 192.22,
+    },
+    {
+      name: 'Meitnerium',
+      symbol: 'Mt',
+      atomicNumber: 109,
+      relativeAtomicMass: 278.16,
+    },
+  ],
+
+  // group 10
+  [
+    {/* empty space */},
+    {/* empty space */},
+    {/* empty space */},
+    {
+      name: 'Nickel',
+      symbol: 'Ni',
+      atomicNumber: 28,
+      relativeAtomicMass: 58.693,
+    },
+    {
+      name: 'Palladium',
+      symbol: 'Pd',
+      atomicNumber: 46,
+      relativeAtomicMass: 106.42,
+    },
+    {
+      name: 'Platinum',
+      symbol: 'Pt',
+      atomicNumber: 78,
+      relativeAtomicMass: 195.08,
+    },
+    {
+      name: 'Darmstadtium',
+      symbol: 'Ds',
+      atomicNumber: 110,
+      relativeAtomicMass: 281.17,
+    },
+  ],
+
+  // group 11
+  [
+    {/* empty space */},
+    {/* empty space */},
+    {/* empty space */},
+    {
+      name: 'Copper',
+      symbol: 'Cu',
+      atomicNumber: 29,
+      relativeAtomicMass: 63.546,
+    },
+    {
+      name: 'Silver',
+      symbol: 'Ag',
+      atomicNumber: 47,
+      relativeAtomicMass: 107.87,
+    },
+    {
+      name: 'Gold',
+      symbol: 'Au',
+      atomicNumber: 79,
+      relativeAtomicMass: 196.97,
+    },
+    {
+      name: 'Roentgenium',
+      symbol: 'Rg',
+      atomicNumber: 111,
+      relativeAtomicMass: 281.17,
+    },
+  ],
+
+  // group 12
+  [
+    {/* empty space */},
+    {/* empty space */},
+    {/* empty space */},
+    {
+      name: 'Zinc',
+      symbol: 'Zn',
+      atomicNumber: 30,
+      relativeAtomicMass: 65.38,
+    },
+    {
+      name: 'Cadmium',
+      symbol: 'Cd',
+      atomicNumber: 48,
+      relativeAtomicMass: 112.41,
+    },
+    {
+      name: 'Mercury',
+      symbol: 'Ht',
+      atomicNumber: 80,
+      relativeAtomicMass: 200.59,
+    },
+    {
+      name: 'Copernicium',
+      symbol: 'Cn',
+      atomicNumber: 112,
+      relativeAtomicMass: 285.18,
+    },
+  ],
 ];
