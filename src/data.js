@@ -3,7 +3,7 @@
 //   [{...cell}, {...cell}],
 //   [{...cell}, {...cell}],
 // ]
-export default [
+export const primary = [
   // group 1
   [
     {
@@ -400,4 +400,258 @@ export default [
       relativeAtomicMass: 285.18,
     },
   ],
+
+  // group 13
+  [
+    {/* empty space */},
+    {
+      name: 'Boron',
+      symbol: 'B',
+      atomicNumber: 5,
+      relativeAtomicMass: 10.81,
+    },
+    {
+      name: 'Aluminium',
+      symbol: 'Al',
+      atomicNumber: 13,
+      relativeAtomicMass: 26.982,
+    },
+    {
+      name: 'Gallium',
+      symbol: 'Ga',
+      atomicNumber: 31,
+      relativeAtomicMass: 69.723,
+    },
+    {
+      name: 'Indium',
+      symbol: 'In',
+      atomicNumber: 49,
+      relativeAtomicMass: 114.82,
+    },
+    {
+      name: 'Thallium',
+      symbol: 'Ti',
+      atomicNumber: 81,
+      relativeAtomicMass: 204.38,
+    },
+    {
+      name: 'Nihonium',
+      symbol: 'Nh',
+      atomicNumber: 113,
+      relativeAtomicMass: 286.18,
+    },
+  ],
+
+  // group 14
+  [
+    {/* empty space */},
+    {
+      name: 'Carbon',
+      symbol: 'C',
+      atomicNumber: 6,
+      relativeAtomicMass: 12.011,
+    },
+    {
+      name: 'Silicon',
+      symbol: 'Si',
+      atomicNumber: 14,
+      relativeAtomicMass: 28.085,
+    },
+    {
+      name: 'Germanium',
+      symbol: 'Ge',
+      atomicNumber: 32,
+      relativeAtomicMass: 72.630,
+    },
+    {
+      name: 'Tin',
+      symbol: 'Sn',
+      atomicNumber: 50,
+      relativeAtomicMass: 118.71,
+    },
+    {
+      name: 'Lead',
+      symbol: 'Pb',
+      atomicNumber: 82,
+      relativeAtomicMass: 207.2,
+    },
+    {
+      name: 'Flerovium',
+      symbol: 'Fl',
+      atomicNumber: 114,
+      relativeAtomicMass: 289.19,
+    },
+  ],
+
+  // group 15
+  [
+    {/* empty space */},
+    {
+      name: 'Nitrogen',
+      symbol: 'N',
+      atomicNumber: 7,
+      relativeAtomicMass: 14.007,
+    },
+    {
+      name: 'Phosphorus',
+      symbol: 'Si',
+      atomicNumber: 15,
+      relativeAtomicMass: 30.974,
+    },
+    {
+      name: 'Arsenic',
+      symbol: 'As',
+      atomicNumber: 33,
+      relativeAtomicMass: 74.922,
+    },
+    {
+      name: 'Antimony',
+      symbol: 'Sb',
+      atomicNumber: 51,
+      relativeAtomicMass: 121.76,
+    },
+    {
+      name: 'Bismuth',
+      symbol: 'Bi',
+      atomicNumber: 83,
+      relativeAtomicMass: 208.98,
+    },
+    {
+      name: 'Moscovium',
+      symbol: 'Mc',
+      atomicNumber: 115,
+      relativeAtomicMass: 289.20,
+    },
+  ],
+
+  // group 16
+  [
+    {/* empty space */},
+    {
+      name: 'Oxygen',
+      symbol: 'O',
+      atomicNumber: 8,
+      relativeAtomicMass: 15.999,
+    },
+    {
+      name: 'Sulfur',
+      symbol: 'S',
+      atomicNumber: 16,
+      relativeAtomicMass: 32.06,
+    },
+    {
+      name: 'Selenium',
+      symbol: 'Se',
+      atomicNumber: 34,
+      relativeAtomicMass: 78.971,
+    },
+    {
+      name: 'Tellurium',
+      symbol: 'Te',
+      atomicNumber: 52,
+      relativeAtomicMass: 127.60,
+    },
+    {
+      name: 'Polonium',
+      symbol: 'Po',
+      atomicNumber: 84,
+      relativeAtomicMass: 208.98,
+    },
+    {
+      name: 'Livermorium',
+      symbol: 'Lv',
+      atomicNumber: 116,
+      relativeAtomicMass: 293.20,
+    },
+  ],
+
+  // group 17
+  [
+    {/* empty space */},
+    {
+      name: 'Fluorine',
+      symbol: 'F',
+      atomicNumber: 9,
+      relativeAtomicMass: 18.998,
+    },
+    {
+      name: 'Chlorine',
+      symbol: 'Cl',
+      atomicNumber: 17,
+      relativeAtomicMass: 35.45,
+    },
+    {
+      name: 'Bromine',
+      symbol: 'Br',
+      atomicNumber: 35,
+      relativeAtomicMass: 79.904,
+    },
+    {
+      name: 'Iodine',
+      symbol: 'I',
+      atomicNumber: 53,
+      relativeAtomicMass: 126.90,
+    },
+    {
+      name: 'Astatine',
+      symbol: 'At',
+      atomicNumber: 85,
+      relativeAtomicMass: 209.99,
+    },
+    {
+      name: 'Tennessine',
+      symbol: 'Ts',
+      atomicNumber: 117,
+      relativeAtomicMass: 293.21,
+    },
+  ],
+
+  // group 18
+  [
+    {
+      name: 'Helium',
+      symbol: 'He',
+      atomicNumber: 2,
+      relativeAtomicMass: 4.0026,
+    },
+    {
+      name: 'Neon',
+      symbol: 'Ne',
+      atomicNumber: 10,
+      relativeAtomicMass: 20.180,
+    },
+    {
+      name: 'Argon',
+      symbol: 'Ar',
+      atomicNumber: 18,
+      relativeAtomicMass: 39.948,
+    },
+    {
+      name: 'Krypton',
+      symbol: 'Kr',
+      atomicNumber: 36,
+      relativeAtomicMass: 83.798,
+    },
+    {
+      name: 'Xenon',
+      symbol: 'Xe',
+      atomicNumber: 54,
+      relativeAtomicMass: 131.29,
+    },
+    {
+      name: 'Radon',
+      symbol: 'Rn',
+      atomicNumber: 86,
+      relativeAtomicMass: 131.29,
+    },
+    {
+      name: 'Oganesson',
+      symbol: 'Og',
+      atomicNumber: 118,
+      relativeAtomicMass: 294.21,
+    },
+  ],
+];
+
+export const secondary = [
 ];
