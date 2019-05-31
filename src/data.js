@@ -654,4 +654,179 @@ export const primary = [
 ];
 
 export const secondary = [
+  // row 1
+  [
+    {
+      name: 'Lanthanum',
+      symbol: 'La',
+      atomicNumber: 57,
+      relativeAtomicMass: 138.91,
+    },
+    {
+      name: 'Cerium',
+      symbol: 'Ce',
+      atomicNumber: 58,
+      relativeAtomicMass: 140.12,
+    },
+    {
+      name: 'Praseodymium',
+      symbol: 'Pr',
+      atomicNumber: 59,
+      relativeAtomicMass: 140.91,
+    },
+    {
+      name: 'Neodymium',
+      symbol: 'Nd',
+      atomicNumber: 60,
+      relativeAtomicMass: 144.24,
+    },
+    {
+      name: 'Promethium',
+      symbol: 'Pm',
+      atomicNumber: 61,
+      relativeAtomicMass: 144.91,
+    },
+    {
+      name: 'Samarium',
+      symbol: 'Sm',
+      atomicNumber: 62,
+      relativeAtomicMass: 150.36,
+    },
+    {
+      name: 'Europium',
+      symbol: 'Eu',
+      atomicNumber: 63,
+      relativeAtomicMass: 151.96,
+    },
+    {
+      name: 'Gadolinium',
+      symbol: 'Gd',
+      atomicNumber: 64,
+      relativeAtomicMass: 157.25,
+    },
+    {
+      name: 'Terbium',
+      symbol: 'Tb',
+      atomicNumber: 65,
+      relativeAtomicMass: 158.93,
+    },
+    {
+      name: 'Dysprosium',
+      symbol: 'Dy',
+      atomicNumber: 66,
+      relativeAtomicMass: 162.50,
+    },
+    {
+      name: 'Holmium',
+      symbol: 'Ho',
+      atomicNumber: 67,
+      relativeAtomicMass: 164.93,
+    },
+    {
+      name: 'Erbium',
+      symbol: 'Er',
+      atomicNumber: 68,
+      relativeAtomicMass: 167.26,
+    },
+    {
+      name: 'Thulium',
+      symbol: 'Tm',
+      atomicNumber: 69,
+      relativeAtomicMass: 168.93,
+    },
+    {
+      name: 'Ytterbium',
+      symbol: 'Yb',
+      atomicNumber: 70,
+      relativeAtomicMass: 173.05,
+    },
+  ],
+
+  // row 2
+  [
+    {
+      name: 'Actinium',
+      symbol: 'Ac',
+      atomicNumber: 89,
+      relativeAtomicMass: 227.03,
+    },
+    {
+      name: 'Thorium',
+      symbol: 'Th',
+      atomicNumber: 90,
+      relativeAtomicMass: 232.04,
+    },
+    {
+      name: 'Protactinium',
+      symbol: 'Pa',
+      atomicNumber: 91,
+      relativeAtomicMass: 231.04,
+    },
+    {
+      name: 'Uranium',
+      symbol: 'U',
+      atomicNumber: 92,
+      relativeAtomicMass: 238.03,
+    },
+    {
+      name: 'Neptunium',
+      symbol: 'Np',
+      atomicNumber: 93,
+      relativeAtomicMass: 237.05,
+    },
+    {
+      name: 'Plutonium',
+      symbol: 'Pu',
+      atomicNumber: 94,
+      relativeAtomicMass: 244.06,
+    },
+    {
+      name: 'Americium',
+      symbol: 'Am',
+      atomicNumber: 95,
+      relativeAtomicMass: 243.06,
+    },
+    {
+      name: 'Curium',
+      symbol: 'Cm',
+      atomicNumber: 96,
+      relativeAtomicMass: 247.07,
+    },
+    {
+      name: 'Berkelium',
+      symbol: 'Bk',
+      atomicNumber: 97,
+      relativeAtomicMass: 247.07,
+    },
+    {
+      name: 'Californium',
+      symbol: 'Cf',
+      atomicNumber: 98,
+      relativeAtomicMass: 251.08,
+    },
+    {
+      name: 'Einsteinium',
+      symbol: 'Es',
+      atomicNumber: 99,
+      relativeAtomicMass: 252.08,
+    },
+    {
+      name: 'Fermium',
+      symbol: 'Fm',
+      atomicNumber: 100,
+      relativeAtomicMass: 257.10,
+    },
+    {
+      name: 'Mendelevium',
+      symbol: 'Md',
+      atomicNumber: 101,
+      relativeAtomicMass: 258.10,
+    },
+    {
+      name: 'Nobelium',
+      symbol: 'No',
+      atomicNumber: 102,
+      relativeAtomicMass: 259.10,
+    },
+  ],
 ];
